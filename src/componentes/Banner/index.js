@@ -7,7 +7,6 @@ function Banner() {
         <hearder className="banner">
             <img src="/imagens/banner.png" alt="O banner principal da págia do Organo"/>
         </hearder>
-        
     )
 }
 export default Banner
